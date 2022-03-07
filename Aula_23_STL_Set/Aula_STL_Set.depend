@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597157766 source:c:\users\arihe\desktop\revisao c plusplus\aula_stl_set\main.cpp
+	<string>
+	<set>
+	<iostream>
+
