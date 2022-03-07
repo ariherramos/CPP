@@ -1,1 +1,1 @@
-# cpp_studies
+Repositorio destinado ao estudo da linguegam C++
