@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1506949700 source:c:\users\jujuba\desktop\sobrecarga oo\questao_1\src\contador.cpp
+	"Contador.h"
+
+1506949700 c:\users\jujuba\desktop\sobrecarga oo\questao_1\include\contador.h
+	<iostream>
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1507748039 source:c:\users\arihe\desktop\lista oo\questao_4\src\ponto.cpp
+	"Ponto.h"
+
+1507821321 c:\users\arihe\desktop\lista oo\questao_4\include\ponto.h
+	<iostream>
+	<complex>
+	<math.h>
+	<string>
+
+1507748039 source:c:\users\arihe\desktop\lista oo\questao_4\src\reta.cpp
+	"Reta.h"
+
+1507822452 c:\users\arihe\desktop\lista oo\questao_4\include\reta.h
+	<iostream>
+	<complex>
+	<math.h>
+	<string>
+	"Ponto.h"
+	<string>
+
+1508377200 source:c:\users\arihe\desktop\lista oo\questao_4\main.cpp
+	<iostream>
+	"Ponto.h"
+	"Reta.h"
+	<iostream>
+	<string>
+

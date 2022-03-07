@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\arihe\desktop\lista oo\questao_5\main.cpp
+	<iostream>
+
+1507820992 source:c:\users\arihe\desktop\lista oo\questao_5\src\circulo.cpp
+	"Circulo.h"
+
+1508033639 c:\users\arihe\desktop\lista oo\questao_5\include\circulo.h
+	<iostream>
+	<math.h>
+

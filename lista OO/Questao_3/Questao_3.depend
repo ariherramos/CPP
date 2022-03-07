@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1507742874 source:c:\users\arihe\desktop\lista oo\questao_3\main.cpp
+	<iostream>
+	"Complexo.h"
+
+1507742856 c:\users\arihe\desktop\lista oo\questao_3\include\complexo.h
+	<iostream>
+	<complex>
+	<math.h>
+	<string>
+
+1507737685 source:c:\users\arihe\desktop\lista oo\questao_3\src\complexo.cpp
+	"Complexo.h"
+

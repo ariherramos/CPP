@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1508182467 source:c:\users\arihe\desktop\lista oo\questao_9\src\conjunto.cpp
+	"Conjunto.h"
+
+1508295257 c:\users\arihe\desktop\lista oo\questao_9\include\conjunto.h
+	<iostream>
+	<vector>
+	<string>
+
+1508295213 source:c:\users\arihe\desktop\lista oo\questao_9\main.cpp
+	<iostream>
+	"Conjunto.h"
+
+1508328612 source:c:\users\jujuba\desktop\lista de exercicios  oo\questao_9\main.cpp
+	<iostream>
+	"Conjunto.h"
+
+1508328772 c:\users\jujuba\desktop\lista de exercicios  oo\questao_9\include\conjunto.h
+	<iostream>
+	<vector>
+	<string>
+	<stdio.h>
+	<string.h>
+
+1508178867 source:c:\users\jujuba\desktop\lista de exercicios  oo\questao_9\src\conjunto.cpp
+	"Conjunto.h"
+

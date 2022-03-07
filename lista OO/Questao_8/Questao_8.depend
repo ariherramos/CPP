@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1508164646 source:c:\users\jujuba\desktop\lista de exercicios  oo\questao_8\main.cpp
+	<iostream>
+	"Pessoa.h"
+
+1508120704 source:c:\users\jujuba\desktop\lista de exercicios  oo\questao_8\src\pessoa.cpp
+	"Pessoa.h"
+
+1508165152 c:\users\jujuba\desktop\lista de exercicios  oo\questao_8\include\pessoa.h
+	<iostream>
+	<string>
+

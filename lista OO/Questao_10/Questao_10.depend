@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1508343619 source:c:\users\jujuba\desktop\lista de exercicios  oo\questao_10\main.cpp
+	<iostream>
+	"Matriz.h"
+
+1508115491 source:c:\users\jujuba\desktop\lista de exercicios  oo\questao_10\src\matriz.cpp
+	"Matriz.h"
+
+1508345493 c:\users\jujuba\desktop\lista de exercicios  oo\questao_10\include\matriz.h
+	<iostream>
+

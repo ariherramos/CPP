@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508081229 source:c:\users\arihe\desktop\lista oo\questao_6\main.cpp
+	<iostream>
+	"Pais.h"
+
+1508077762 source:c:\users\arihe\desktop\lista oo\questao_6\src\pais.cpp
+	"Pais.h"
+
+1508081154 c:\users\arihe\desktop\lista oo\questao_6\include\pais.h
+	<iostream>
+	<string>
+	<list>
+

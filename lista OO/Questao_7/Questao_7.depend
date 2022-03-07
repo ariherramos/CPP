@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1508292440 source:c:\users\arihe\desktop\lista oo\questao_7\main.cpp
+	<iostream>
+	"Continente.h"
+
+1508090297 source:c:\users\arihe\desktop\lista oo\questao_7\src\pais.cpp
+	"Pais.h"
+
+1508090297 c:\users\arihe\desktop\lista oo\questao_7\include\pais.h
+	<iostream>
+	<string>
+
+1508097114 source:c:\users\arihe\desktop\lista oo\questao_7\src\continente.cpp
+	"Continente.h"
+
+1508292440 c:\users\arihe\desktop\lista oo\questao_7\include\continente.h
+	<iostream>
+	<string>
+	<list>
+	<vector>
+	"Pais.h"
+

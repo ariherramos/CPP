@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1507735743 source:c:\users\arihe\desktop\lista oo\questao_2\main.cpp
+	<iostream>
+	"Ponto2D.h"
+
+1507736239 source:c:\users\arihe\desktop\lista oo\questao_2\src\ponto2d.cpp
+	"Ponto2D.h"
+
+1507736239 c:\users\arihe\desktop\lista oo\questao_2\include\ponto2d.h
+	<iostream>
+	<math.h>
+
