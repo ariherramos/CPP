@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508374038 source:c:\users\arihe\desktop\heranca\map\main.cpp
+	<string.h>
+	<iostream>
+	<map>
+	<utility>
+
