@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597116278 source:c:\users\arihe\desktop\revisao c plusplus\aula_15_excecao\main.cpp
+	<iostream>
+	<exception>
+
